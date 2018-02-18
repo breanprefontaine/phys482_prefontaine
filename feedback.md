@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+No update
+
+* Score: 0/20
+
 ## Assignment 4
 
 Brean, you've got a great scaffold here for a full paper. Also the meta statements to yourself and me are helfpul. I tihnk it's pretty clear that you know what to work on. A few ideas that might help to make some of transitions that you have: consider the differences between the boring CCD and the Skipper CCD as a way of moving between them (you might also consider how they serve different purposes). The Skipper CCD section appears a bit more technical and that might be because you are still forming an idea of how all the aspects that you have read about play together into a narrative. The way you have presented the boring CCD could help frame the Skipper CCD portion (i.e., so that they have some parallel presentation). So I think you are close to a complete draft, but you have some feedback for yourself and my feedback here might also provide some scaffolding for dealing with your own feedback. Great work!
