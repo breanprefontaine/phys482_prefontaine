@@ -3,6 +3,15 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Brean, you have a nearly complete paper here. I think you know what you need to add from your meta statements to yourself. The overall writing and structure of the paper are in good shape, and I have little concern that you about you being able to edit the new addition to this same quality. It's all very well written. I think if I have one thing that I want you to consider is the challenges associated with the Sipper CCD. You say a lot about the future uses, but I'm wondering about the technological challenges of making such a tool more commericalized. You know the standard CCD is now in every digitial camera device and scaled down to the a few millimeters. How are we going to get there with the Skipper CCD? This might involve reading a more popular account. Here's a few possible examples:
+https://www.nature.com/scientificamerican/journal/v295/n5/full/scientificamerican1106-86.html
+https://www.scientificamerican.com/article/people-may-sense-single-photons/
+Great work on this paper!
+
+* Score: 20/20
+
 ## Assignment 5
 
 No update
